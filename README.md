@@ -69,4 +69,7 @@ The proportions of males and females in the sample:
 males -> 15:20 -> 3:4, means for every 4 patients who attended more than once in March, there are 3 males 
 females -> 5:20 -> 1:4, means for every 4 patient who attended more than once in March, there is 1 female
 
+___
 
+## Project's tools
+Juptyer, Python libraries: Numpy, Pandas, Matplotlib, Seaborn, Scipy, datetime, sklearn
