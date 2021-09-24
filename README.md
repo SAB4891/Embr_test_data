@@ -13,7 +13,7 @@ For patients who attended more than 1 session, what was the average percentage c
 Answer: The average percentage change for the sample (patients who attented more than once) is with a 95% confidence at a 47% average between 47.34 and 47.73 - more details in Questions_Answers.ipynb notebook in the repository.
 
 The sampling distribution of the sample mean is visualized below in the image. 
-![Percentage change sampling distribution](Visualizations/sampling_all.png)
+![Percentage change sampling distribution](Visualization/sampling_all.png)
 
 
 
