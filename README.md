@@ -1,5 +1,9 @@
-# Embr. test data
+# Embr. pilot test data
 An organization has collected data from individuals seeking their services related to mental health support. The data is in xlxs format with 2 sheets (check file preview and description in the repository). This project will consist of conducting a light EDA (i.e. Exploratory Analysis), and joining data from sheets as necessary to answer raised questions. 
+
+###### Primary EDA was performed to sense the data and take action as the path unfolds grouding every decision with data nature and the domain knowledge. More details and commented code blocks are explicit in the Data_Cleaning_Rearranging.ipynb notebook
+
+___
 
 ## Questions 
 
@@ -63,6 +67,6 @@ The ratio of male to females in the sample is 3 to 1 (3:1). Which means that for
 
 The proportions of males and females in the sample:
 males -> 15:20 -> 3:4, means for every 4 patients who attended more than once in March, there are 3 males 
-females -> 5:20 -> 1:4, means for every 1 patient who attended more than once in March, there is 1 female
+females -> 5:20 -> 1:4, means for every 4 patient who attended more than once in March, there is 1 female
 
 
