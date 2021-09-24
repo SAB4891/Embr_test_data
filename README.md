@@ -18,6 +18,7 @@ The sampling distribution of the samples' (resampled) mean is visualized below i
 
 ![Percentage change sampling distribution](Visualization/sampling_all.png)
 
+___
 
 Is there a difference between percentage change average of patient who saw same type of practitioner and those who did not?
 
@@ -27,17 +28,16 @@ The sampling distribution of the samples' -of patients who saw same type of prac
 
 ![Percentage change sampling distribution for the sample of patient who saw same practitioners](Visualization/sampling_same.png)
 
+___
 
 The sampling distribution of the samples' -of patients who saw different type of practitioner- mean is visualized below in the image.
 
 ![Percentage change sampling distribution for the sample of patient who saw different practitioners](Visualization/sampling_different.png)
 
+___
 
-As obvious the 2 sampling distribution's mean C.I does not overlap which is a clear indication that the 2 sample means are in deed diffirent and not just due to randomness in the data. In other words people 
-
-
-
-
+As observed, the 2 sampling distribution's mean C.I do not overlap, which is a clear indication that the 2 sample's means are in deed different and not just due to randomness in the data. In other words people who have had saw different type of practitioners on their multiple visits have a greater percentage average change in their phq9 scores than those who had saw only the same type of practitioner during their multiple visits. 
+Furthermore, No conclusion can be drawn from this different since percentages change were computed in their absolute values, it is not possible to know if the phq9 percentage average change for patients who saw different practitioners means that on average the scores decreased. 
 
 
 
