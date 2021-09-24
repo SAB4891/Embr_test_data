@@ -14,9 +14,28 @@ For patients who attended more than 1 session, what was the average percentage c
 
 Answer: The average percentage change for the sample (patients who attented more than once) is with a 95% confidence at a 47% average between 47.34 and 47.73 - more details in Questions_Answers.ipynb notebook in the repository.
 
-The sampling distribution of the sample mean is visualized below in the image.
+The sampling distribution of the samples' (resampled) mean is visualized below in the image.
 
 ![Percentage change sampling distribution](Visualization/sampling_all.png)
+
+
+Is there a difference between percentage change average of patient who saw same type of practitioner and those who did not?
+
+The sample as a whole is below 30 entries, it is not recommended to run parameteric statistical tests when various assumptions related to those satistical tests are violated (we could have simply performed on the 2 samples a t-test for difference in means; However sample size is crippling and Heteroscedacity adding to that violation of distribution normality). Nevertheless, the conditions are best suited to perform a Bootstrapping on both sample and produce a sampling distribution.
+
+The sampling distribution of the samples' -of patients who saw same type of practitioner- mean is visualized below in the image.
+
+![Percentage change sampling distribution for the sample of patient who saw same practitioners](Visualization/sampling_same.png)
+
+
+The sampling distribution of the samples' -of patients who saw different type of practitioner- mean is visualized below in the image.
+
+![Percentage change sampling distribution for the sample of patient who saw different practitioners](Visualization/sampling_different.png)
+
+
+As obvious the 2 sampling distribution's mean C.I does not overlap which is a clear indication that the 2 sample means are in deed diffirent and not just due to randomness in the data. In other words people 
+
+
 
 
 
