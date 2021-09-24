@@ -1,0 +1,91 @@
+name,surname,appointment date,status,practitioner,phq9,full name
+alexander,scott,2021-03-10,attended,psychiatrist,21.0,alexander scott
+alfie,murray,2021-03-10,attended,psychiatrist,23.0,alfie murray
+alfie,murray,2021-03-22,attended,social worker,22.0,alfie murray
+alice,murray,2021-03-01,attended,nurse,,alice murray
+alice,murray,2021-03-28,attended,psychiatrist,23.0,alice murray
+mike,good,2021-03-02,cancelled,nurse,,mike good
+archie,morrison,2021-03-11,attended,social worker,16.0,archie morrison
+archie,johnstone,2021-03-13,attended,psychiatrist,7.0,archie johnstone
+archie,johnstone,2021-03-28,attended,psychologist,18.0,archie johnstone
+jennifer,runt,2021-03-03,no show,psychologist,,jennifer runt
+aria,gray,2021-03-30,attended,social worker,2.0,aria gray
+damon,hart,2021-03-07,attended,social worker,21.0,damon hart
+damon,hart,2021-03-11,attended,social worker,23.0,damon hart
+james,stewart,2021-03-03,cancelled,psychiatrist,,james stewart
+damon,hart,2021-03-28,attended,nurse,19.0,damon hart
+gavin,wolff,2021-03-01,attended,psychologist,23.0,gavin wolff
+damon,hart,2021-03-04,cancelled,psychiatrist,,damon hart
+gavin,wolff,2021-03-31,attended,psychologist,23.0,gavin wolff
+harris,thomson,2021-03-09,attended,nurse,16.0,harris thomson
+lynn,scott,2021-03-07,cancelled,psychologist,,lynn scott
+harris,thomson,2021-03-23,attended,nurse,10.0,harris thomson
+isabelle,wells,2021-03-03,attended,psychologist,11.0,isabelle wells
+isabelle,wells,2021-03-22,attended,social worker,17.0,isabelle wells
+isabelle,wells,2021-03-23,attended,psychiatrist,13.0,isabelle wells
+michael,black,2021-03-08,no show,psychiatrist,,michael black
+isabelle,wells,2021-03-08,cancelled,psychiatrist,,isabelle wells
+isabelle,wells,2021-03-24,attended,psychiatrist,0.0,isabelle wells
+isabelle,wells,2021-03-28,attended,psychologist,22.0,isabelle wells
+isabelle,wells,2021-03-30,attended,psychiatrist,0.0,isabelle wells
+jacob,watt,2021-03-15,attended,psychiatrist,2.0,jacob watt
+jacob,watt,2021-03-16,attended,psychiatrist,17.0,jacob watt
+james,black,2021-03-02,attended,social worker,27.0,james black
+james,black,2021-03-04,attended,psychologist,7.0,james black
+james,stewart,2021-03-08,attended,psychiatrist,24.0,james stewart
+mia,burns,2021-03-11,cancelled,social worker,,mia burns
+james,stewart,2021-03-23,attended,psychologist,18.0,james stewart
+james,stewart,2021-03-31,attended,psychologist,4.0,james stewart
+jeffrey,lard,2021-03-04,attended,social worker,27.0,jeffrey lard
+jennifer,runt,2021-03-23,attended,psychologist,,jennifer runt
+finlay,munro,2021-03-15,no show,nurse,,finlay munro
+damon,hart,2021-03-15,no show,psychologist,,damon hart
+jeffrey,lard,2021-03-15,attended,psychiatrist,18.0,jeffrey lard
+jennifer,runt,2021-03-29,attended,psychiatrist,15.0,jennifer runt
+jennifer,runt,2021-03-31,attended,psychologist,21.0,jennifer runt
+john,doe,2021-03-01,attended,psychiatrist,0.0,john doe
+john,doe,2021-03-08,attended,social worker,18.0,john doe
+john,doe,2021-03-28,attended,social worker,24.0,john doe
+joseph,ford,2021-03-02,attended,psychologist,15.0,joseph ford
+arthur,millar,2021-03-17,cancelled,social worker,,arthur millar
+leon,grave,2021-03-17,cancelled,psychologist,,leon grave
+james,black,2021-03-17,cancelled,psychiatrist,,james black
+joshua,mckenzie,2021-03-16,attended,psychologist,4.0,joshua mckenzie
+leo,anderson,2021-03-10,attended,psychologist,14.0,leo anderson
+mike,good,2021-03-18,no show,psychiatrist,,mike good
+leo,anderson,2021-03-12,attended,psychiatrist,11.0,leo anderson
+james,stewart,2021-03-22,no show,nurse,,james stewart
+leo,anderson,2021-03-28,attended,psychologist,13.0,leo anderson
+leon,grave,2021-03-01,attended,psychiatrist,3.0,leon grave
+leon,grave,2021-03-07,attended,psychiatrist,33.0,leon grave
+lewis,robertson,2021-03-09,attended,psychologist,24.0,lewis robertson
+lewis,robertson,2021-03-22,attended,psychiatrist,,lewis robertson
+lily,johnston,2021-03-30,attended,psychologist,15.0,lily johnston
+lorna,cormack,2021-03-03,attended,psychologist,24.0,lorna cormack
+lorna,cormack,2021-03-07,attended,psychiatrist,45.0,lorna cormack
+lorna,cormack,2021-03-24,attended,psychiatrist,14.0,lorna cormack
+michael,black,2021-03-02,attended,psychiatrist,,michael black
+damon,hart,2021-03-24,cancelled,psychiatrist,,damon hart
+john,doe,2021-03-24,no show,psychologist,,john doe
+michael,black,2021-03-24,cancelled,psychologist,,michael black
+michael,black,2021-03-16,attended,psychologist,14.0,michael black
+michael,black,2021-03-16,attended,psychiatrist,222.0,michael black
+michael,black,2021-03-17,attended,social worker,24.0,michael black
+michael,black,2021-03-23,attended,psychiatrist,21.0,michael black
+michael,black,2021-03-31,attended,social worker,19.0,michael black
+mike,good,2021-03-04,attended,psychiatrist,19.0,mike good
+mike,good,2021-03-24,attended,psychiatrist,0.0,mike good
+noah,taylor,2021-03-10,attended,psychologist,8.0,noah taylor
+oliver,gage,2021-03-03,attended,nurse,6.0,oliver gage
+oliver,gage,2021-03-29,attended,psychologist,8.0,oliver gage
+archie,morrison,2021-03-29,no show,psychologist,,archie morrison
+ellie,henderson,2021-03-30,cancelled,social worker,,ellie henderson
+oliver,gage,2021-03-18,attended,psychologist,14.0,oliver gage
+oscar,ritchie,2021-03-16,attended,psychologist,6.0,oscar ritchie
+rachel,warwick,2021-03-02,attended,psychologist,19.0,rachel warwick
+rachel,warwick,2021-03-29,attended,social worker,27.0,rachel warwick
+lewis,robertson,2021-03-31,cancelled,psychiatrist,,lewis robertson
+alfie,murray,2021-03-31,cancelled,social worker,,alfie murray
+sophie,lard,2021-03-04,attended,nurse,23.0,sophie lard
+sophie,lard,2021-03-16,attended,psychiatrist,,sophie lard
+sophie,lard,2021-03-28,attended,psychiatrist,25.0,sophie lard

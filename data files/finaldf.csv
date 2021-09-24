@@ -1,0 +1,21 @@
+full name,age,gender,call date,services awerness via,first_appointment_date,firstVisit_practitioner,first_score,last_appointment_date,lastVisit_practitioner,last_score,%_change
+alfie murray,,male,2021-02-15,twitter,2021-03-10,psychiatrist,23.0,2021-03-22,social worker,22.0,4.35
+archie johnstone,35.0,male,2021-02-25,radio,2021-03-13,psychiatrist,7.0,2021-03-28,psychologist,18.0,157.14
+damon hart,76.0,male,2021-02-07,ngo,2021-03-07,social worker,21.0,2021-03-28,nurse,19.0,9.52
+gavin wolff,8.0,male,2021-02-06,ngo,2021-03-01,psychologist,23.0,2021-03-31,psychologist,23.0,0.0
+harris thomson,82.0,male,2021-02-13,lifeline,2021-03-09,nurse,16.0,2021-03-23,nurse,10.0,37.5
+isabelle wells,25.0,female,2021-02-13,twitter,2021-03-03,psychologist,11.0,2021-03-30,psychiatrist,0.0,100.0
+jacob watt,67.0,male,2021-02-26,lifeline,2021-03-15,psychiatrist,2.0,2021-03-16,psychiatrist,17.0,750.0
+james black,37.0,male,2021-02-06,close entourage,2021-03-02,social worker,27.0,2021-03-04,psychologist,7.0,74.07
+james stewart,41.0,male,2021-02-13,television,2021-03-08,psychiatrist,24.0,2021-03-31,psychologist,4.0,83.33
+jeffrey lard,45.0,male,2021-02-07,close entourage,2021-03-04,social worker,27.0,2021-03-15,psychiatrist,18.0,33.33
+jennifer runt,41.0,female,2021-02-08,instagram,2021-03-29,psychiatrist,15.0,2021-03-31,psychologist,21.0,40.0
+john doe,23.0,male,2021-02-01,instagram,2021-03-01,psychiatrist,1.0,2021-03-28,social worker,24.0,2300.0
+leo anderson,38.0,male,2021-02-14,television,2021-03-10,psychologist,14.0,2021-03-28,psychologist,13.0,7.14
+leon grave,18.0,male,2021-02-06,private practitioner,2021-03-01,psychiatrist,3.0,2021-03-07,psychiatrist,33.0,1000.0
+lorna cormack,31.0,female,2021-02-12,lifeline,2021-03-03,psychologist,24.0,2021-03-24,psychiatrist,14.0,41.67
+michael black,97.0,male,2021-02-08,close entourage,2021-03-16,psychologist,14.0,2021-03-31,social worker,19.0,35.71
+mike good,38.0,male,2021-02-06,lifeline,2021-03-04,psychiatrist,19.0,2021-03-24,psychiatrist,0.0,100.0
+oliver gage,57.0,male,2021-02-08,facebook,2021-03-03,nurse,6.0,2021-03-29,psychologist,8.0,33.33
+rachel warwick,37.0,female,2021-02-08,television,2021-03-02,psychologist,19.0,2021-03-29,social worker,27.0,42.11
+sophie lard,8.0,female,2021-02-08,close entourage,2021-03-04,nurse,23.0,2021-03-28,psychiatrist,25.0,8.7

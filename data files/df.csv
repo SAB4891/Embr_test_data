@@ -1,0 +1,41 @@
+full name,name,surname,age,gender,call date,services awerness via,appointment date,status,practitioner,phq9
+alfie murray,alfie,murray,,male,2021-02-15,twitter,2021-03-10,attended,psychiatrist,23.0
+alfie murray,alfie,murray,,male,2021-02-15,twitter,2021-03-22,attended,social worker,22.0
+archie johnstone,archie,johnstone,35.0,male,2021-02-25,radio,2021-03-13,attended,psychiatrist,7.0
+archie johnstone,archie,johnstone,35.0,male,2021-02-25,radio,2021-03-28,attended,psychologist,18.0
+damon hart,damon,hart,76.0,male,2021-02-07,ngo,2021-03-07,attended,social worker,21.0
+damon hart,damon,hart,76.0,male,2021-02-07,ngo,2021-03-28,attended,nurse,19.0
+gavin wolff,gavin,wolff,8.0,male,2021-02-06,ngo,2021-03-01,attended,psychologist,23.0
+gavin wolff,gavin,wolff,8.0,male,2021-02-06,ngo,2021-03-31,attended,psychologist,23.0
+harris thomson,harris,thomson,82.0,male,2021-02-13,lifeline,2021-03-09,attended,nurse,16.0
+harris thomson,harris,thomson,82.0,male,2021-02-13,lifeline,2021-03-23,attended,nurse,10.0
+isabelle wells,isabelle,wells,25.0,female,2021-02-13,twitter,2021-03-03,attended,psychologist,11.0
+isabelle wells,isabelle,wells,25.0,female,2021-02-13,twitter,2021-03-30,attended,psychiatrist,0.0
+jacob watt,jacob,watt,67.0,male,2021-02-26,lifeline,2021-03-15,attended,psychiatrist,2.0
+jacob watt,jacob,watt,67.0,male,2021-02-26,lifeline,2021-03-16,attended,psychiatrist,17.0
+james black,james,black,37.0,male,2021-02-06,close entourage,2021-03-02,attended,social worker,27.0
+james black,james,black,37.0,male,2021-02-06,close entourage,2021-03-04,attended,psychologist,7.0
+james stewart,james,stewart,41.0,male,2021-02-13,television,2021-03-08,attended,psychiatrist,24.0
+james stewart,james,stewart,41.0,male,2021-02-13,television,2021-03-31,attended,psychologist,4.0
+jeffrey lard,jeffrey,lard,45.0,male,2021-02-07,close entourage,2021-03-04,attended,social worker,27.0
+jeffrey lard,jeffrey,lard,45.0,male,2021-02-07,close entourage,2021-03-15,attended,psychiatrist,18.0
+jennifer runt,jennifer,runt,41.0,female,2021-02-08,instagram,2021-03-29,attended,psychiatrist,15.0
+jennifer runt,jennifer,runt,41.0,female,2021-02-08,instagram,2021-03-31,attended,psychologist,21.0
+john doe,john,doe,23.0,male,2021-02-01,instagram,2021-03-01,attended,psychiatrist,0.0
+john doe,john,doe,23.0,male,2021-02-01,instagram,2021-03-28,attended,social worker,24.0
+leo anderson,leo,anderson,38.0,male,2021-02-14,television,2021-03-10,attended,psychologist,14.0
+leo anderson,leo,anderson,38.0,male,2021-02-14,television,2021-03-28,attended,psychologist,13.0
+leon grave,leon,grave,18.0,male,2021-02-06,private practitioner,2021-03-01,attended,psychiatrist,3.0
+leon grave,leon,grave,18.0,male,2021-02-06,private practitioner,2021-03-07,attended,psychiatrist,33.0
+lorna cormack,lorna,cormack,31.0,female,2021-02-12,lifeline,2021-03-03,attended,psychologist,24.0
+lorna cormack,lorna,cormack,31.0,female,2021-02-12,lifeline,2021-03-24,attended,psychiatrist,14.0
+michael black,michael,black,97.0,male,2021-02-08,close entourage,2021-03-16,attended,psychologist,14.0
+michael black,michael,black,97.0,male,2021-02-08,close entourage,2021-03-31,attended,social worker,19.0
+mike good,mike,good,38.0,male,2021-02-06,lifeline,2021-03-04,attended,psychiatrist,19.0
+mike good,mike,good,38.0,male,2021-02-06,lifeline,2021-03-24,attended,psychiatrist,0.0
+oliver gage,oliver,gage,57.0,male,2021-02-08,facebook,2021-03-03,attended,nurse,6.0
+oliver gage,oliver,gage,57.0,male,2021-02-08,facebook,2021-03-29,attended,psychologist,8.0
+rachel warwick,rachel,warwick,37.0,female,2021-02-08,television,2021-03-02,attended,psychologist,19.0
+rachel warwick,rachel,warwick,37.0,female,2021-02-08,television,2021-03-29,attended,social worker,27.0
+sophie lard,sophie,lard,8.0,female,2021-02-08,close entourage,2021-03-04,attended,nurse,23.0
+sophie lard,sophie,lard,8.0,female,2021-02-08,close entourage,2021-03-28,attended,psychiatrist,25.0

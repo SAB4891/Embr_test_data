@@ -1,0 +1,61 @@
+name,surname,call date,call outcome,services awerness via,sex,age,full name
+john,doe,2021-02-01,appointment given,instagram,male,23.0,john doe
+samantha,smith,2021-02-02,pending slot availability,ngo,female,21.0,samantha smith
+adam,horn,2021-02-03,pending slot availability,ngo,male,44.0,adam horn
+joe,white,2021-02-04,appointment not given - services not available,close entourage,male,32.0,joe white
+alice,murray,2021-02-05,appointment given,lifeline,female,,alice murray
+gavin,wolff,2021-02-06,appointment given,ngo,male,8.0,gavin wolff
+leon,grave,2021-02-06,appointment given,private practitioner,male,18.0,leon grave
+james,black,2021-02-06,appointment given,close entourage,male,37.0,james black
+mike,good,2021-02-06,appointment given,lifeline,male,38.0,mike good
+sean,adam,2021-02-06,pending slot availability,close entourage,male,13.0,sean adam
+fionna,grant,2021-02-07,pending slot availability,close entourage,female,6.0,fionna grant
+damon,hart,2021-02-07,appointment given,ngo,male,76.0,damon hart
+jeffrey,lard,2021-02-07,appointment given,close entourage,male,45.0,jeffrey lard
+sophie,lard,2021-02-08,appointment given,close entourage,female,8.0,sophie lard
+lynn,scott,2021-02-08,appointment given,close entourage,female,43.0,lynn scott
+michael,black,2021-02-08,appointment given,close entourage,male,97.0,michael black
+joseph,ford,2021-02-08,appointment given,ngo,male,65.0,joseph ford
+rachel,warwick,2021-02-08,appointment given,television,female,37.0,rachel warwick
+jennifer,runt,2021-02-08,appointment given,instagram,female,41.0,jennifer runt
+oliver,gage,2021-02-08,appointment given,facebook,male,57.0,oliver gage
+cassey,pau,2021-02-09,appointment not given - services not available,television,female,34.0,cassey pau
+phillip,yard,2021-02-10,appointment not given - services not available,ngo,male,21.0,phillip yard
+peter,loyd,2021-02-11,pending slot availability,lifeline,male,14.0,peter loyd
+john,smith,2021-02-11,pending slot availability,twitter,male,65.0,john smith
+jade,goff,2021-02-11,pending slot availability,lifeline,female,34.0,jade goff
+lorna,cormack,2021-02-12,appointment given,lifeline,female,31.0,lorna cormack
+isabelle,wells,2021-02-13,appointment given,twitter,female,25.0,isabelle wells
+ray,purven,2021-02-13,appointment not given - services not available,close entourage,female,28.0,ray purven
+james,stewart,2021-02-13,appointment given,television,male,41.0,james stewart
+charlie,campbell,2021-02-13,pending slot availability,ngo,male,63.0,charlie campbell
+harris,thomson,2021-02-13,appointment given,lifeline,male,82.0,harris thomson
+lewis,robertson,2021-02-13,appointment given,,male,16.0,lewis robertson
+leo,anderson,2021-02-14,appointment given,television,male,38.0,leo anderson
+noah,taylor,2021-02-15,appointment given,radio,male,29.0,noah taylor
+alfie,murray,2021-02-15,appointment given,twitter,male,,alfie murray
+rory,macdonald,2021-02-15,pending slot availability,,female,19.0,rory macdonald
+alexander,scott,2021-02-15,appointment given,ngo,male,44.0,alexander scott
+max,clark,2021-02-17,appointment given,private practitioner,male,58.0,max clark
+logan,reid,2021-02-18,appointment not given - services not available,,female,42.0,logan reid
+lucas,watson,2021-02-19,appointment given,,male,17.0,lucas watson
+harry,ross,2021-02-20,pending slot availability,,male,38.0,harry ross
+theo,young,2021-02-21,pending slot availability,ngo,male,14.0,theo young
+thomas,walker,2021-02-24,appointment not given - services not available,instagram,female,,thomas walker
+brodie,paterson,2021-02-24,appointment given,lifeline,female,49.0,brodie paterson
+archie,morrison,2021-02-24,appointment given,ngo,male,53.0,archie morrison
+ellie,henderson,2021-02-24,appointment given,lifeline,female,47.0,ellie henderson
+aria,gray,2021-02-24,appointment given,close entourage,female,33.0,aria gray
+lily,johnston,2021-02-24,appointment given,awareness booth,female,26.0,lily johnston
+harper,graham,2021-02-24,pending slot availability,awareness booth,female,38.0,harper graham
+mia,burns,2021-02-24,appointment given,awareness booth,female,41.0,mia burns
+rosie,stevenson,2021-02-24,pending slot availability,close entourage,female,86.0,rosie stevenson
+archie,johnstone,2021-02-25,appointment given,radio,male,35.0,archie johnstone
+jacob,watt,2021-02-26,appointment given,lifeline,male,67.0,jacob watt
+finlay,munro,2021-02-26,appointment given,awareness booth,male,42.0,finlay munro
+finn,craig,2021-02-26,appointment given,close entourage,male,15.0,finn craig
+daniel,wood,2021-02-26,pending slot availability,television,female,57.0,daniel wood
+joshua,mckenzie,2021-02-27,appointment given,,male,24.0,joshua mckenzie
+oscar,ritchie,2021-02-27,appointment given,close entourage,male,28.0,oscar ritchie
+arthur,millar,2021-02-27,appointment given,ngo,male,38.0,arthur millar
+hunter,watt,2021-02-27,pending slot availability,,female,62.0,hunter watt
