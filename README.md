@@ -1,5 +1,5 @@
 # Embr. pilot test data
-An organization has collected data from individuals seeking their services related to mental health support. The data is in xlxs format with 2 sheets (check file preview and description in the repository). This project will consist of conducting a light EDA (i.e. Exploratory Analysis), and joining data from sheets as necessary to answer raised questions. 
+ An organization has collected data from individuals seeking their services related to mental health support. The data is in xlxs format with 2 sheets (check file preview and description in the repository). This project will consist of conducting a light EDA (i.e. Exploratory Analysis), and joining data from sheets as necessary to answer raised questions. 
 
 ###### Primary EDA was performed to sense the data and take action as the path unfolds grouding every decision with data nature and the domain knowledge. More details and commented code blocks are explicit in the Data_Cleaning_Rearranging.ipynb notebook
 
@@ -50,7 +50,7 @@ The mean of the percentage change for the patient who attended more than once wi
 
 ___
 
-As observed, the 2 sampling distribution's mean C.I do not overlap, which is a clear indication that the 2 sample's means are in deed different and not just due to randomness in the data. In other words people who have had saw different type of practitioners on their multiple visits have a greater percentage average change in their phq9 scores than those who had saw only the same type of practitioner during their multiple visits. 
+As observed, the 2 sampling distribution's mean C.I do not overlap, which is a clear indication that the 2 sample's means are in deed different and not just due to randomness in the data. In other words people who saw the same type of practitioners on their multiple visits have a greater percentage average change in their phq9 scores than those who saw different type of practitioner during their multiple visits. 
 Furthermore, No conclusion can be drawn from this different since percentages change were computed in their absolute values, it is not possible to know if the phq9 percentage average change for patients who saw different practitioners means that on average the scores decreased. 
 
 
